@@ -92,5 +92,9 @@ Add four binary (1 or 0) columns for product category: product_smartphone, produ
 
 ```{r}
 
+# can't figure this one out
+
+write.csv(refine_dplyr, "refine_clean.csv")
+
 ```
 
